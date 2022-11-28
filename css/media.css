@@ -1,0 +1,68 @@
+@media( max-width:1140px) {
+    
+}
+@media (max-width: 1200px) {
+    
+}
+@media (max-width: 1024px) {
+    .one {
+        font-size: 11px;
+        padding: 0 10px;
+    }
+
+
+
+
+
+  .hero{
+   flex-direction: column;
+  }
+
+    .hero-title h1 {
+        font-size: 16px;
+        line-height: 35px;
+    }
+    .hero-title p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .hero-bg {
+        position: absolute;
+        left:-8px;
+    }
+.hero-title button{
+  margin: 15px 0;
+}
+    .card {
+        margin: 20px 0;
+        padding-left: 20px;
+        width: 90%;
+    }
+.music{
+ flex-direction: column;
+}
+
+
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+@media (max-width: 451px) {
+
+}
+@media (max-width: 400px) {
+
+}
+@media (max-width: 376px) {
+
+}
+@media (max-width: 320px) {
+
+}
